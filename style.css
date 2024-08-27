@@ -158,10 +158,11 @@ body {
 .bio{
     width: 100%;
     font-size: 25px;
+    /* overflow: scroll; */
 }
 
 .tb-data{
-    width: 100%;
+    width: 85%;
     border: 1;
     margin-left: 15px;
     border-spacing: 10px;
